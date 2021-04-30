@@ -14,7 +14,7 @@ The HTML & CSS were updated to reflect:
 3. Improved codebase for long-term sustainability.
 
 #### ScreenShot
-![Alt text]()
+![Horiseon Screenshot](https://user-images.githubusercontent.com/78969397/116752565-630a3280-a9cb-11eb-9168-d6ee601c2e19.png)
 
 
 ##### URL
