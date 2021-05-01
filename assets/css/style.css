@@ -128,7 +128,7 @@ p {
     font-size: 36px;
 }
 
-/*made footer it's own semantic element*/
+/*removed the "." footer is it's own special class*/
 footer {
     padding: 30px;
     clear: both;
